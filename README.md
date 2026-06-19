@@ -58,6 +58,3 @@ For firmware I used CircuitPython.
 
 ## Images
 The images with PCB and 3D render can be found in the `image/` folder.
-
-## Other notes
-This is my first PCB project ever, so it might not be the best design, but it was fun to make one!
