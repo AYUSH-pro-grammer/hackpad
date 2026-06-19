@@ -12,6 +12,26 @@ The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and m
 - 3D-printed housing
 - Custom PCB designed in KiCad
 
+## Images
+
+### Schematic
+![Schematic](image/schematic.png)
+
+### PCB Layout
+![PCB Layout](image/pcb.png)
+
+### 3D Front View
+![PCB 3D Front](image/pcb-3d-front.png)
+
+### 3D Back View
+![PCB 3D Back](image/pcb-3d-back.png)
+
+### Render 1
+![Render 1](image/3d1.png)
+
+### Render 2
+![Render 2](image/3d2.png)
+
 ## Project files structure
 - `kicad/` - PCB files
 - `cad/` - 3D models
