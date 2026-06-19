@@ -32,6 +32,24 @@ The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and m
 ### Render 2
 ![Render 2](image/3d2.png)
 
+
+## Bill of Materials
+
+These are the parts I used for my hackpad:
+
+| Part | Purpose | Qty |
+|------|---------|-----|
+| PCB | Main board for soldering all the parts | 1 |
+| Seeed XIAO RP2040 | Main controller | 1 |
+| MX Switches | The 3x3 keys | 9 |
+| Keycaps | For the switches | 9 |
+| 1N4148 Diodes | Prevent ghosting in the key matrix | 9 |
+| 0.91" OLED Display | Shows info on the screen | 1 |
+| LED | Blinks when a key is pressed | 1 |
+| Current-limiting resistor | Protects the LED | 1 |
+| 3D printed case | Holds everything together | 1 |
+
+
 ## Project files structure
 - `kicad/` - PCB files
 - `cad/` - 3D models
