@@ -1,0 +1,10 @@
+Name,Purpose,Quantity
+PCB,"Main board for soldering all the parts",1
+Seeed XIAO RP2040,"Main controller",1
+MX Switches,"The 3x3 keys",9
+Keycaps,"For the switches",9
+1N4148 Diodes,"Prevent ghosting in the key matrix",9
+0.91 OLED Display,"Shows info on the screen",1
+LED,"Blinks when a key is pressed",1
+Current Limiting Resistor,"Protects the LED",1
+3D Printed Case,"Holds everything together",1
