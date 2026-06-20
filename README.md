@@ -33,21 +33,21 @@ The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and m
 ![Render 2](image/3d2.png)
 
 
-## Bill of Materials
+## Bill of Materials (BOM)
 
-These are the parts I used for my hackpad:
+| Part                                    | Purpose                                | Qty | Reference Link                                                                                |
+| --------------------------------------- | -------------------------------------- | --- | --------------------------------------------------------------------------------------------- |
+| PCB                                     | Main board for soldering all the parts | 1   | Custom-designed PCB                                                                           |
+| Seeed XIAO RP2040                       | Main controller                        | 1   | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html                                      |
+| MX Switches                             | Mechanical switches for the 3×3 keypad | 9   | https://keychron.in/product/cherry-mx-switch-set/                                             |
+| Keycaps                                 | Keycaps mounted on the switches        | 9   | Compatible MX-style keycaps                                                                   |
+| 1N4148 Diodes                           | Prevent ghosting in the key matrix     | 9   | https://quartzcomponents.com/products/1n4148-zener-diode                                      |
+| 0.91" OLED Display (128×32 I2C SSD1306) | Displays status and information        | 1   | https://www.buydisplay.com/i2c-blue-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi |
+| 5 mm LED                                | Indicates key presses                  | 1   | Standard 5 mm LED                                                                             |
+| 220 Ω Resistor                          | Limits current through the LED         | 1   | https://robocraze.com/products/220-ohm-resistor-pack-of-10                                    |
+| 3D Printed Case                         | Encloses and protects the device       | 1   | Custom-designed and 3D printed                                                                |
 
-| Part                             | Purpose                                | Qty | Link                                                                                                                                                    |
-| -------------------------------- | -------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PCB                              | Main board for soldering all the parts | 1   | Custom-designed PCB                                                                                                                                     |
-| Seeed XIAO RP2040                | Main controller                        | 1   | [Seeed XIAO RP2040 Official Page](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?utm_source=chatgpt.com)                                      |
-| MX Switches                      | Mechanical switches for the 3×3 keypad | 9   | [CHERRY MX Switches](https://www.cherry.de/en-gb/products/switches?utm_source=chatgpt.com)                                                              |
-| Keycaps                          | Caps mounted on the switches           | 9   | [Keychron Keycaps Collection](https://www.keychron.com/collections/keycaps?utm_source=chatgpt.com)                                                      |
-| 1N4148 Diodes                    | Prevent ghosting in the key matrix     | 9   | [Vishay 1N4148 Datasheet](https://www.vishay.com/docs/81857/1n4148.pdf?utm_source=chatgpt.com)                                                          |
-| 0.91" OLED Display (SSD1306 I2C) | Displays status and information        | 1   | [Waveshare 0.91 inch OLED Module](https://www.waveshare.com/0.91inch-oled-module.htm?utm_source=chatgpt.com)                                            |
-| 5 mm LED                         | Indicates key presses                  | 1   | [Kingbright LEDs Product Page](https://www.kingbrightusa.com/category.asp?catalog_name=LED&category_name=Through-Hole_LED_Lamps&utm_source=chatgpt.com) |
-| 220 Ω Resistor                   | Limits current through the LED         | 1   | [Yageo Resistors Overview](https://www.yageo.com/en/Product/Resistor?utm_source=chatgpt.com)                                                            |
-| 3D Printed Case                  | Encloses and protects the device       | 1   | Custom-designed and 3D printed                                                                                                                          |
+
 
 
 
