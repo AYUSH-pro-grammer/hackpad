@@ -32,7 +32,6 @@ The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and m
 ### Render 2
 ![Render 2](image/3d2.png)
 
-
 ## Bill of Materials (BOM)
 
 | Part                                    | Purpose                                | Qty | Reference Link                                                                                |
@@ -43,11 +42,8 @@ The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and m
 | Keycaps                                 | Keycaps mounted on the switches        | 9   | Compatible MX-style keycaps                                                                   |
 | 1N4148 Diodes                           | Prevent ghosting in the key matrix     | 9   | https://quartzcomponents.com/products/1n4148-zener-diode                                      |
 | 0.91" OLED Display (128×32 I2C SSD1306) | Displays status and information        | 1   | https://www.buydisplay.com/i2c-blue-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi |
-| 5 mm LED                                | Indicates key presses                  | 1   | Standard 5 mm LED                                                                             |
 | 220 Ω Resistor                          | Limits current through the LED         | 1   | https://robocraze.com/products/220-ohm-resistor-pack-of-10                                    |
 | 3D Printed Case                         | Encloses and protects the device       | 1   | Custom-designed and 3D printed                                                                |
-
-
 
 
 
