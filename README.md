@@ -5,6 +5,15 @@ Hi there! Here is my personal Hack Club macropad.
 It is a compact 3x3 keyboard meant for shortcuts, programming and gaming.  
 The keyboard consists of a Seeed XIAO RP2040 microcontroller, OLED screen, and mechanical switches.
 
+## Build Images
+
+<img width="917" height="638" alt="image" src="https://github.com/user-attachments/assets/6d974cd6-be95-4d26-a8b9-b03f85c1f667" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0f9acc8b-128d-46f9-9e2d-7a5a79c8b02f" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/5441a0a5-5adb-4343-a4b9-6993de24bcf4" />
+
+
 ## What it includes
 - 3x3 mechanical switches
 - 0.91" OLED screen
